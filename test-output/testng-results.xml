@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91373" started-at="2022-08-27T10:16:58Z" finished-at="2022-08-27T10:18:30Z">
+    <groups>
+    </groups>
+    <test name="TestsForValidCreditials" duration-ms="91373" started-at="2022-08-27T10:16:58Z" finished-at="2022-08-27T10:18:30Z">
+      <class name="testcases.DemoGuruCredentialsGettingTest">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="openApplication" is-config="true" duration-ms="38886" started-at="2022-08-27T15:46:58Z" finished-at="2022-08-27T15:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testDemoGuruCredentialsGettingTest(java.lang.String)[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="testDemoGuruCredentialsGettingTest" duration-ms="28956" started-at="2022-08-27T15:47:37Z" data-provider="setData" finished-at="2022-08-27T15:48:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kpvsivakumar439@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoGuruCredentialsGettingTest -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="closeApplication" is-config="true" duration-ms="238" started-at="2022-08-27T15:48:06Z" finished-at="2022-08-27T15:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="openApplication" is-config="true" duration-ms="7870" started-at="2022-08-27T15:48:07Z" finished-at="2022-08-27T15:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testDemoGuruCredentialsGettingTest(java.lang.String)[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="testDemoGuruCredentialsGettingTest" duration-ms="4121" started-at="2022-08-27T15:48:14Z" data-provider="setData" finished-at="2022-08-27T15:48:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoGuruCredentialsGettingTest -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="closeApplication" is-config="true" duration-ms="192" started-at="2022-08-27T15:48:19Z" finished-at="2022-08-27T15:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="openApplication" is-config="true" duration-ms="6526" started-at="2022-08-27T15:48:19Z" finished-at="2022-08-27T15:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testDemoGuruCredentialsGettingTest(java.lang.String)[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="testDemoGuruCredentialsGettingTest" duration-ms="3772" started-at="2022-08-27T15:48:25Z" data-provider="setData" finished-at="2022-08-27T15:48:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoGuruCredentialsGettingTest -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:testcases.DemoGuruCredentialsGettingTest@48524010]" name="closeApplication" is-config="true" duration-ms="214" started-at="2022-08-27T15:48:29Z" finished-at="2022-08-27T15:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testcases.DemoGuruCredentialsGettingTest -->
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="openBrowser" is-config="true" duration-ms="12120" started-at="2022-08-27T15:47:01Z" finished-at="2022-08-27T15:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="loginTest" duration-ms="10331" started-at="2022-08-27T15:47:13Z" data-provider="dataProvider" finished-at="2022-08-27T15:47:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="closeBrowser" is-config="true" duration-ms="377" started-at="2022-08-27T15:47:24Z" finished-at="2022-08-27T15:47:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="openBrowser" is-config="true" duration-ms="6266" started-at="2022-08-27T15:47:24Z" finished-at="2022-08-27T15:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="loginTest" duration-ms="14537" started-at="2022-08-27T15:47:30Z" data-provider="dataProvider" finished-at="2022-08-27T15:47:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[phani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[phani123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="closeBrowser" is-config="true" duration-ms="383" started-at="2022-08-27T15:47:45Z" finished-at="2022-08-27T15:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="openBrowser" is-config="true" duration-ms="6017" started-at="2022-08-27T15:47:45Z" finished-at="2022-08-27T15:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="loginTest" duration-ms="14528" started-at="2022-08-27T15:47:51Z" data-provider="dataProvider" finished-at="2022-08-27T15:48:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.LoginTest@3ee0fea4]" name="closeBrowser" is-config="true" duration-ms="565" started-at="2022-08-27T15:48:06Z" finished-at="2022-08-27T15:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- TestsForValidCreditials -->
+  </suite> <!-- Suite -->
+</testng-results>

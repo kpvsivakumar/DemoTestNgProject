@@ -1,0 +1,25 @@
+15:47:01.406 [pool-1-thread-1] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+15:47:08.799 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:47:13.543 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:47:15.511 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:47:16.118 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:47:20.358 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:47:23.874 [pool-1-thread-1] DEBUG testcases.LoginTest - User got logged in
+15:47:23.874 [pool-1-thread-1] INFO  testcases.LoginTest - Login Test got passed
+15:47:24.457 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+15:47:27.574 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:47:30.725 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:47:31.761 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:47:32.088 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:47:32.200 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:47:45.261 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+15:47:45.261 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+15:47:45.787 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+15:47:48.539 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:47:51.805 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:47:52.738 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:47:53.048 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:47:53.240 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:48:06.332 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+15:48:06.333 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+15:48:07.106 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed

@@ -1,0 +1,124 @@
+15:23:03.744 [main] DEBUG testcases.LoginTest - Browser Got Launched
+15:23:06.943 [main] DEBUG testcases.LoginTest - Navigated to Application URL
+15:23:07.710 [main] DEBUG testcases.LoginTest - Email addressed got entered
+15:23:07.893 [main] DEBUG testcases.LoginTest - Password addressed got entered
+15:23:08.051 [main] DEBUG testcases.LoginTest - Clicked on Login Button
+15:23:12.633 [main] DEBUG testcases.LoginTest - User got logged in
+15:23:12.633 [main] INFO  testcases.LoginTest - Login Test got passed
+15:23:12.799 [main] DEBUG testcases.LoginTest - Browser got closed
+15:23:14.871 [main] DEBUG testcases.LoginTest - Browser Got Launched
+15:23:18.165 [main] DEBUG testcases.LoginTest - Navigated to Application URL
+15:23:18.979 [main] DEBUG testcases.LoginTest - Email addressed got entered
+15:23:19.249 [main] DEBUG testcases.LoginTest - Password addressed got entered
+15:23:19.415 [main] DEBUG testcases.LoginTest - Clicked on Login Button
+15:23:32.481 [main] DEBUG testcases.LoginTest - User did'nt logged in
+15:23:32.481 [main] ERROR testcases.LoginTest - Login Test got failed
+15:23:32.720 [main] DEBUG testcases.LoginTest - Browser got closed
+15:23:35.081 [main] DEBUG testcases.LoginTest - Browser Got Launched
+15:23:38.492 [main] DEBUG testcases.LoginTest - Navigated to Application URL
+15:23:39.428 [main] DEBUG testcases.LoginTest - Email addressed got entered
+15:23:39.622 [main] DEBUG testcases.LoginTest - Password addressed got entered
+15:23:39.782 [main] DEBUG testcases.LoginTest - Clicked on Login Button
+15:23:52.873 [main] DEBUG testcases.LoginTest - User did'nt logged in
+15:23:52.873 [main] ERROR testcases.LoginTest - Login Test got failed
+15:23:53.063 [main] DEBUG testcases.LoginTest - Browser got closed
+15:35:28.569 [main] DEBUG testcases.LoginTest - Browser Got Launched
+15:35:31.745 [main] DEBUG testcases.LoginTest - Navigated to Application URL
+15:35:32.505 [main] DEBUG testcases.LoginTest - Email addressed got entered
+15:35:32.730 [main] DEBUG testcases.LoginTest - Password addressed got entered
+15:35:32.934 [main] DEBUG testcases.LoginTest - Clicked on Login Button
+15:35:36.586 [main] DEBUG testcases.LoginTest - User got logged in
+15:35:36.587 [main] INFO  testcases.LoginTest - Login Test got passed
+15:44:35.746 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:44:39.816 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:44:40.611 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:44:41.012 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:44:41.150 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:44:45.149 [pool-1-thread-1] DEBUG testcases.LoginTest - User got logged in
+15:44:45.149 [pool-1-thread-1] INFO  testcases.LoginTest - Login Test got passed
+15:48:06.228 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:48:10.527 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:48:12.891 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:48:13.986 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:48:18.462 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:48:21.653 [pool-1-thread-1] DEBUG testcases.LoginTest - User got logged in
+15:48:21.654 [pool-1-thread-1] INFO  testcases.LoginTest - Login Test got passed
+15:48:22.767 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+15:48:26.192 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:48:29.743 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:48:31.221 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:48:31.593 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:48:31.886 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:48:45.115 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+15:48:45.115 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+15:48:45.729 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+15:48:48.775 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+15:48:52.422 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+15:48:53.353 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+15:48:53.597 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+15:48:53.769 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+15:49:06.826 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+15:49:06.826 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+15:49:07.456 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+18:07:03.062 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+18:07:11.454 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+18:07:13.980 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+18:07:14.486 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+18:07:14.628 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+18:07:19.633 [pool-1-thread-1] DEBUG testcases.LoginTest - User got logged in
+18:07:19.634 [pool-1-thread-1] INFO  testcases.LoginTest - Login Test got passed
+18:07:40.340 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+18:07:44.348 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+18:07:54.486 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+18:07:55.838 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+18:07:56.998 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+18:07:57.391 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+18:08:10.509 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+18:08:10.510 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+18:08:10.966 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+18:08:13.138 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+18:08:22.762 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+18:08:24.430 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+18:08:24.629 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+18:08:24.783 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+18:08:37.827 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+18:08:37.827 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+18:08:38.317 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+21:00:59.068 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+21:01:03.795 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+21:17:54.519 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+21:18:05.143 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+21:18:06.975 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+21:18:07.374 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+21:18:08.051 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+21:18:13.474 [pool-1-thread-1] DEBUG testcases.LoginTest - User got logged in
+21:18:13.475 [pool-1-thread-1] INFO  testcases.LoginTest - Login Test got passed
+21:18:13.833 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+21:18:16.900 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+21:18:37.013 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+21:18:39.400 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+21:18:39.690 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+21:18:39.829 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+21:18:58.780 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+21:18:58.780 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+21:18:59.077 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+21:19:01.084 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser Got Launched
+21:19:27.449 [pool-1-thread-1] DEBUG testcases.LoginTest - Navigated to Application URL
+21:19:30.098 [pool-1-thread-1] DEBUG testcases.LoginTest - Email addressed got entered
+21:19:30.477 [pool-1-thread-1] DEBUG testcases.LoginTest - Password addressed got entered
+21:19:30.839 [pool-1-thread-1] DEBUG testcases.LoginTest - Clicked on Login Button
+21:19:43.922 [pool-1-thread-1] DEBUG testcases.LoginTest - User did'nt logged in
+21:19:43.922 [pool-1-thread-1] ERROR testcases.LoginTest - Login Test got failed
+21:19:44.241 [pool-1-thread-1] DEBUG testcases.LoginTest - Browser got closed
+21:59:13.787 [main] DEBUG testcases.LoginTest - Browser Got Launched
+22:00:47.648 [main] DEBUG testcases.LoginTest - Navigated to Application URL
+22:00:54.534 [main] DEBUG testcases.LoginTest - Email addressed got entered
+22:00:54.706 [main] DEBUG testcases.LoginTest - Password addressed got entered
+22:00:54.827 [main] DEBUG testcases.LoginTest - Clicked on Login Button
+22:00:59.948 [main] DEBUG testcases.LoginTest - User got logged in
+22:00:59.948 [main] INFO  testcases.LoginTest - Login Test got passed
+22:01:00.362 [main] DEBUG testcases.LoginTest - Browser got closed
+22:01:03.586 [main] DEBUG testcases.LoginTest - Browser Got Launched
+22:01:12.205 [main] DEBUG testcases.LoginTest - Navigated to Application URL
+22:01:12.976 [main] DEBUG testcases.LoginTest - Email addressed got entered
+22:01:13.193 [main] DEBUG testcases.LoginTest - Password addressed got entered
